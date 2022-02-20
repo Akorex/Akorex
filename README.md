@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akorex
 - 👀 I’m interested in solving one or two problems using data and Machine Learning
 - 🌱 I’m currently learning ML/MLOps, Data Science
-- 💞️ I’m looking to collaborate on projects involving Computer Vision and Natural Language Processing with Tensorflow.
+- 💞️ I’m looking to collaborate on projects involving Computer Vision and Natural Language Processing with Tensorflow and Pytorch
 - 📫 How to reach me @_manofletters on Twitter.
 
 <!---
