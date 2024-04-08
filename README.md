@@ -12,7 +12,7 @@
 🛠️ Tools: TensorFlow, PyTorch, Express, MongoDB, Node JS
 
 
-💬 Let's connect: [LinkedIn]([https://yourlinkedinin/adewole-akorede/]) 
+💬 Let's connect: [LinkedIn](https://yourlinkedinin/adewole-akorede/) 
 
 
 <!---
