@@ -1,18 +1,22 @@
 
-### Hi, I'm Akorede. 👨‍💻
+## Hi, I'm Akorede Adewole. 👨‍💻
 
-👋  Passionate about building AI-powered software products across web, and mobile. 
+🚀 Passionate about building scalable backend systems and AI-powered applications across web and mobile platforms. 
 
-⚡ On the web, I manage databases and integrate APIs.
+## 🌟 What I Do
 
-🔭 My focus in Machine Learning is building NLP applications with TensorFlow and PyTorch.
+🔭 Backend Development: Designing and maintaining scalable and secure backend services using Node.js and TypeScript.
 
-🛠️ Languages: Python, JavaScript, TypeScript
+🔭 AI & Machine Learning: Building NLP and data-driven applications using TensorFlow and PyTorch.
 
-🛠️ Tools: TensorFlow, PyTorch, Express, MongoDB, Node JS
+## 🛠️ Tech Stack
+
+🛠️ Languages: JavaScript/TypeScript, Go, Python
+
+🛠️ Tools: TensorFlow, PyTorch, Express, PostgreSQL, Node JS
 
 
-💬 Let's connect: [LinkedIn](https://yourlinkedinin/adewole-akorede/) 
+💬 Let's connect: [LinkedIn](https://www.linkedin.com/in/adewole-akorede/) 
 
 
 <!---
